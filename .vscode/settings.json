@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "Classe"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true,
+  "cSpell.enableFiletypes": [
+    "!java"
+  ],
+  "files.autoSave": "afterDelay"
+}
